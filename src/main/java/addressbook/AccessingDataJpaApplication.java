@@ -12,7 +12,6 @@ public class AccessingDataJpaApplication {
     private static final Logger log = LoggerFactory.getLogger(AccessingDataJpaApplication.class);
 
     public static void main (String[] args) {
-        System.setProperty("server.port", "8081");
         SpringApplication.run(AccessingDataJpaApplication.class, args);
     }
 
