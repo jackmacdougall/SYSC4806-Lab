@@ -12,6 +12,7 @@ public class BuddyInfo {
     private Integer id = null;
     private String name = null;
     private String phoneNumber = null;
+    private String address = null;
 
     public BuddyInfo() { }
 
