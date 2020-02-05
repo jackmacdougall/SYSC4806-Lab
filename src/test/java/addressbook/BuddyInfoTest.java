@@ -1,3 +1,5 @@
+package addressbook;
+
 import addressbook.BuddyInfo;
 import org.junit.Test;
 
